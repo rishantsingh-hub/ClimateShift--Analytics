@@ -14,7 +14,7 @@ https://public.tableau.com/app/profile/rishant.singh/viz/ClimateShiftAnalyticsDa
 ## 📊 Key Insights
 - Global temperature increased by ~1.5°C since 1920  
 - Sea levels rose by ~146 mm  
-- Strong correlation between warming and rising sea levels (R² ≈ 0.89)  
+- Strong correlation between warming and rising sea levels (R² ≈ 0.85)  
 - Warming accelerated significantly after 1980  
 
 ## 🛠 Tools Used
