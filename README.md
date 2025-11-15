@@ -1,7 +1,12 @@
-![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)
+
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)
 ![Data](https://img.shields.io/badge/Data-CSV-green)
 ![NASA Data](https://img.shields.io/badge/Data-NASA-orange)
+![GitHub stars](https://img.shields.io/github/stars/rishantsingh-hub/ClimateShift--Analytics?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rishantsingh-hub/ClimateShift--Analytics?style=social)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-Nov_2025-blue)
+
 
 # ClimateShift Analytics Dashboard
 
