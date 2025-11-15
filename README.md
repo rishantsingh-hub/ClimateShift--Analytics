@@ -23,6 +23,9 @@ https://public.tableau.com/app/profile/rishant.singh/viz/ClimateShiftAnalyticsDa
 - NASA GISS & NASA Sea Level datasets  
 
 ## 📁 Project Structure
+data/        → cleaned dataset  
+dashboard/   → Tableau dashboard screenshot   
+README.md    → project documentation  
 
 
 ## 👤 Author
