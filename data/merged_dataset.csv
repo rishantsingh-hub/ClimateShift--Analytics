@@ -1,4 +1,4 @@
-Year,Temperature_Anomaly(°C),Actual_Temperature(°C),Sea_Level_Rise(mm)
+Year,Temperature_Anomaly(Â°C),Actual_Temperature(Â°C),Sea_Level_Rise(mm)
 1920,-0.27,13.73,-115
 1921,-0.24,13.76,-113
 1922,-0.28,13.72,-112
