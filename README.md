@@ -1,5 +1,4 @@
-# ClimateShift--Analytics
-Climate dashboard showing temperature and sea-level trends (1920–2024).
+
 # ClimateShift Analytics Dashboard
 
 This project analyzes 100 years of NASA climate data (1920–2024) to explore global 
