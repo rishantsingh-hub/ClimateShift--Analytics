@@ -1,11 +1,14 @@
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)                                                                       
-![NASA Data](https://img.shields.io/badge/Data-NASA-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 
 # ClimateShift Analytics Dashboard
+
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)
+![Data](https://img.shields.io/badge/Data-CSV-green)
+![NASA Data](https://img.shields.io/badge/Data-NASA-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-Nov_2025-blue)
 
 This project analyzes 100 years of NASA climate data (1920–2024) to explore global 
 temperature rise, sea-level trends, and their relationship.
