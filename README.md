@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)
+![Data](https://img.shields.io/badge/Data-CSV-green)
+![NASA Data](https://img.shields.io/badge/Data-NASA-orange)
 
 # ClimateShift Analytics Dashboard
 
