@@ -1,8 +1,8 @@
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)                                                                        ![Author](https://img.shields.io/badge/Author-Rishant_Singh-blue)
-![Data](https://img.shields.io/badge/Data-CSV-green)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)                                                                       
 ![NASA Data](https://img.shields.io/badge/Data-NASA-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 # ClimateShift Analytics Dashboard
