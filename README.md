@@ -1,5 +1,5 @@
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)                                                                        ![Author](https://img.shields.io/badge/Author-Rishant_Singh-blue)
 ![Data](https://img.shields.io/badge/Data-CSV-green)
 ![NASA Data](https://img.shields.io/badge/Data-NASA-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -35,5 +35,5 @@ README.md    → project documentation
 
 
 ## 👤 Author
-Rishant Singh  ![Author](https://img.shields.io/badge/Author-Rishant_Singh-blue)
+Rishant Singh 
 
