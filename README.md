@@ -35,4 +35,5 @@ README.md    → project documentation
 
 
 ## 👤 Author
-Rishant Singh  
+Rishant Singh  ![Author](https://img.shields.io/badge/Author-Rishant_Singh-blue)
+
