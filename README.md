@@ -21,3 +21,5 @@ https://public.tableau.com/app/profile/rishant.singh/viz/ClimateShiftAnalyticsDa
 ## Tools Used
 - Tableau
 - Excel
+
+![Dashboard Preview](Dashboard.png)
